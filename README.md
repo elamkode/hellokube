@@ -1,2 +1,2 @@
 # hellokube
-Sample repo
+Avatars Challenge
